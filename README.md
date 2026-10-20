@@ -19,3 +19,8 @@ Remember, it's self-paced so feel free to take a break! ☕️
 - `index.js` - the primary game logic
 - `patterns.js` - the error patterns to match during gameplay
 - `style.css` - the game formatting and styling
+## How to Develop
+- index.html - the game container for playing
+- index.js - the primary game logic
+- patterns.js - the error patterns to match during gameplay
+- style.css - the game formatting and styling
